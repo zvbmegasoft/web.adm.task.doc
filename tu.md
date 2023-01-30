@@ -64,8 +64,7 @@
 
 * **action** - действие над задачей\
 тип значения: *строка*\
-допустимые значения:\
-`insert | delete | rename | erase | delete_all | erase_all`
+допустимые значения: `insert | delete | rename | erase | delete_all | erase_all`
 * **caption** - название задачи\
 тип значения: *строка*\
 допустимые значения: название задачи должно быть *уникальным*, не должно быть разных задач с одинаковым названием
@@ -99,10 +98,8 @@
 * **ftCmdParam** - тип параметра\
 тип значения: *строка*\
 допустимые значения:\
-
-`ftServer | ftBaseName | ftAppHome | ftString | ftInteger | ftBoolean | ftConst | ftBaseShortName | ftDateTime | ftDate | ftFile | ftAppName | ftFloat | ftTime`
-> тип параметра ftServer как имя сервера, сейчас в задачах не используется, зарезервированно под мультисерверные конфигурации
-
+`ftServer | ftBaseName | ftAppHome | ftString | ftInteger | ftBoolean | ftConst | ftBaseShortName | ftDateTime | ftDate | ftFile | ftAppName | ftFloat | ftTime`\
+сейчас ftServer не используется в задачах, он зарезервирован для расширения функционала
 * **maxLength** - максимально допустимая длина значения параметра в символах, обычно используется для ограничения длины строковых параметров в полях ввода\
 тип значения: *число* или *null*\
 допустимые значения: целое число >0 или *null* как признак отсутствия ограничения на длину
