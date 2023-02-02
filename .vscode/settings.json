@@ -1,3 +1,7 @@
 {
-    "markdown-pdf.executablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+    "markdown-pdf.executablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "markdown-pdf.outputDirectory": "C:\\web.adm.task.doc",
+    "markdown-pdf.displayHeaderFooter": false,
+    "markdown-pdf.emoji": false,
+    "markdown-pdf.highlightStyle": "github.css"
 }
