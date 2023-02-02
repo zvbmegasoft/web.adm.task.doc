@@ -7,5 +7,6 @@
     "markdown-preview-enhanced.codeBlockTheme": "github.css",
     "markdown-preview-enhanced.enableEmojiSyntax": false,
     "markdown-preview-enhanced.enableExtendedTableSyntax": true,
-    "markdown-preview-enhanced.HTML5EmbedUseImageSyntax": false
+    "markdown-preview-enhanced.HTML5EmbedUseImageSyntax": false,
+    "markdown-pdf.margin.top": "1cm"
 }
