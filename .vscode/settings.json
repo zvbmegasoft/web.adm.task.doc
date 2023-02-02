@@ -3,5 +3,9 @@
     "markdown-pdf.outputDirectory": "C:\\web.adm.task.doc",
     "markdown-pdf.displayHeaderFooter": false,
     "markdown-pdf.emoji": false,
-    "markdown-pdf.highlightStyle": "github.css"
+    "markdown-pdf.highlightStyle": "github.css",
+    "markdown-preview-enhanced.codeBlockTheme": "github.css",
+    "markdown-preview-enhanced.enableEmojiSyntax": false,
+    "markdown-preview-enhanced.enableExtendedTableSyntax": true,
+    "markdown-preview-enhanced.HTML5EmbedUseImageSyntax": false
 }
