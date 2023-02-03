@@ -15,6 +15,7 @@
         "ryu1kn.partial-diff",
         "mushan.vscode-paste-image",
         "tomoki1207.pdf",
-        "mdickin.markdown-shortcuts"
+        "mdickin.markdown-shortcuts",
+        "bierner.markdown-preview-github-styles"
     ]
 }
