@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "editor.minimap.enabled": false,
+    "workbench.editor.enablePreview": false,
+    "[markdown]": {
+        "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+    },
+    "partialDiff.enableTelemetry": false,
+    "telemetry.telemetryLevel": "off"
+}
