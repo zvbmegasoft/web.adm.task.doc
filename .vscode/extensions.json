@@ -15,6 +15,7 @@
         "davidanson.vscode-markdownlint",
         "ryu1kn.partial-diff",
         "mushan.vscode-paste-image",
-        "tomoki1207.pdf"
+        "tomoki1207.pdf",
+        "mdickin.markdown-shortcuts"
     ]
 }
