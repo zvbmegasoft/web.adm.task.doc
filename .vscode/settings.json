@@ -1,5 +1,5 @@
 {
-    "markdown-pdf.executablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "markdown-pdf.executablePath": "C:\\IronPortable64\\IronPortable.exe",
     "markdown-pdf.outputDirectory": "C:\\web.adm.task.doc",
     "markdown-pdf.highlightStyle": "github.css",
     "markdown-preview-enhanced.codeBlockTheme": "github.css",
