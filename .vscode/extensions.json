@@ -20,6 +20,7 @@
         "bierner.github-markdown-preview",
         "hnw.vscode-auto-open-markdown-preview",
         "ms-ceintl.vscode-language-pack-ru",
-        "micnil.vscode-checkpoints"
+        "micnil.vscode-checkpoints",
+        "dougfinke.vscode-pandoc"
     ]
 }
