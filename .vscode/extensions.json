@@ -24,6 +24,7 @@
         "dougfinke.vscode-pandoc",
         "ryu1kn.text-marker",
         "natqe.reload",
-        "mamoruds.workspace-cacheclean"
+        "mamoruds.workspace-cacheclean",
+        "medo64.render-crlf"
     ]
 }

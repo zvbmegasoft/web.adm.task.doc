@@ -26,5 +26,12 @@
     "markdown-preview-enhanced.breakOnSingleNewLine": false,
     "markdown-preview-enhanced.enableEmojiSyntax": false,
     "markdown-preview-enhanced.enableLinkify": false,
-    "markdown-preview-enhanced.enableWikiLinkSyntax": false
+    "markdown-preview-enhanced.enableWikiLinkSyntax": false,
+    "editor.renderWhitespace": "boundary",
+    "editor.renderControlCharacters": true,
+    "editor.guides.indentation": true,
+    "code-eol.highlightExtraWhitespace": true,
+    "code-eol.highlightNonDefault": true,
+    "code-eol.forceShowOnWordWrap": true,
+    "code-eol.decorateBeforeEol": true
 }
