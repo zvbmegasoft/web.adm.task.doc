@@ -1,37 +1,35 @@
 {
-    "markdown-pdf.executablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
-    "markdown-pdf.outputDirectory": "C:\\web.adm.task.doc",
-    "markdown-pdf.highlightStyle": "github.css",
-    "markdown-preview-enhanced.codeBlockTheme": "github.css",
-    "markdown-pdf.margin.top": "1cm",
-    "markdown-pdf.headerTemplate": "<div style=\"font-size: 9px; margin-left: 1cm;\"> </div> <div style=\"font-size: 9px; margin-left: auto; margin-right: 1cm;\"> </div>",
     "checkpoints.locale": "ru",
-    "pdf-preview.default.scale": "1.0",
-    "partialDiff.commandsOnContextMenu": {
+    "code-eol.decorateBeforeEol": true,
+    "code-eol.forceShowOnWordWrap": true,
+    "code-eol.highlightExtraWhitespace": true,
+    "code-eol.highlightNonDefault": true,
+    "editor.guides.indentation": true,
+    "editor.renderControlCharacters": true,
+    "editor.renderWhitespace": "boundary",
+    "markdown-pdf.executablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "markdown-pdf.headerTemplate": "<div style=\"font-size: 9px; margin-left: 1cm;\"> </div> <div style=\"font-size: 9px; margin-left: auto; margin-right: 1cm;\"> </div>",
+    "markdown-pdf.highlightStyle": "github.css",
+    "markdown-pdf.margin.top": "1cm",
+    "markdown-pdf.outputDirectory": "C:\\web.adm.task.doc",
+    "markdown-preview-enhanced.breakOnSingleNewLine": false,
+    "markdown-preview-enhanced.codeBlockTheme": "github.css",
+    "partialDiff.commandsOnContextMenu":
+    {
         "togglePreComparisonTextNormalizationRules": false
     },
     "partialDiff.enableTelemetry": false,
-    "textmarker.commandsOnContextMenu": {
+    "pdf-preview.default.scale": "1.0",
+    "textmarker.autoSelectDistinctiveTextColor": true,
+    "textmarker.commandsOnContextMenu":
+    {
+        "clearAllHighlight": true,
         "highlightUsingRegex": true,
-        "unhighlight": true,
+        "saveAllHighlights": true,
         "toggleCaseSensitivity": true,
         "toggleWholeMatch": true,
-        "clearAllHighlight": true,
-        "saveAllHighlights": true
+        "unhighlight": true
     },
-    "textmarker.autoSelectDistinctiveTextColor": true,
     "textmarker.enableTelemetry": false,
-    "workspaceCacheClean.autoReload": true,
-    "markdown-preview-enhanced.automaticallyShowPreviewOfMarkdownBeingEdited": true,
-    "markdown-preview-enhanced.breakOnSingleNewLine": false,
-    "markdown-preview-enhanced.enableEmojiSyntax": false,
-    "markdown-preview-enhanced.enableLinkify": false,
-    "markdown-preview-enhanced.enableWikiLinkSyntax": false,
-    "editor.renderWhitespace": "boundary",
-    "editor.renderControlCharacters": true,
-    "editor.guides.indentation": true,
-    "code-eol.highlightExtraWhitespace": true,
-    "code-eol.highlightNonDefault": true,
-    "code-eol.forceShowOnWordWrap": true,
-    "code-eol.decorateBeforeEol": true
+    "workspaceCacheClean.autoReload": true
 }
