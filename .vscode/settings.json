@@ -31,5 +31,8 @@
         "unhighlight": true
     },
     "textmarker.enableTelemetry": false,
-    "workspaceCacheClean.autoReload": true
+    "workspaceCacheClean.autoReload": true,
+    "markdown-pdf.styles": [
+        "code.css"
+    ]
 }
