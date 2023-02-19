@@ -13,6 +13,10 @@
     "markdown-pdf.highlightStyle": "github.css",
     "markdown-pdf.margin.top": "1cm",
     "markdown-pdf.outputDirectory": "C:\\web.adm.task.doc",
+    "markdown-pdf.styles":
+    [
+        "code.css"
+    ],
     "markdown-preview-enhanced.codeBlockTheme": "github.css",
     "markdownShortcuts.bullets.marker": "-",
     "markdownShortcuts.icons.citations": true,
@@ -31,8 +35,5 @@
         "unhighlight": true
     },
     "textmarker.enableTelemetry": false,
-    "workspaceCacheClean.autoReload": true,
-    "markdown-pdf.styles": [
-        "code.css"
-    ]
+    "workspaceCacheClean.autoReload": true
 }
